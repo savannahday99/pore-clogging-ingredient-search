@@ -113,7 +113,7 @@ export default class Highlight extends Component {
         <h4 className={styles.Header}></h4>
         <p></p>
         <textarea
-          rows="6"
+          rows="8"
           className={styles.Input}
           name="textToHighlight"
           value={textToHighlight}
